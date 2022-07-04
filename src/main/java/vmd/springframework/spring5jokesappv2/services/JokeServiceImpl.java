@@ -1,4 +1,4 @@
-package vmd.springframework.vmdjokesappv2.services;
+package vmd.springframework.spring5jokesappv2.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;

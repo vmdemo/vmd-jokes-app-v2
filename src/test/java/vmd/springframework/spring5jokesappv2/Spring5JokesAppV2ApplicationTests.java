@@ -1,10 +1,10 @@
-package vmd.springframework.vmdjokesappv2;
+package vmd.springframework.spring5jokesappv2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VmdJokesAppV2ApplicationTests {
+class Spring5JokesAppV2ApplicationTests {
 
 	@Test
 	void contextLoads() {
